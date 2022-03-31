@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.num-1{
+    background-color: blueviolet;
+
+}
+.boxes{
+    float: right;
+    padding: 10px;
+    margin: 10px;
+    width: 33.33%;
+}
